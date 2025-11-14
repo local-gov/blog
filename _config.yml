@@ -8,6 +8,8 @@ plugins:
 title: "전국 도·시·군·구 지자체 홈페이지 바로가기"
 description: "Primer 테마 적용된 GitHub Pages 블로그"
 
+url: "https://lgov.virz.net"
+
 header_pages:
   - index.md
   - about.md
