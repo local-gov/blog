@@ -1,0 +1,9 @@
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+title: "My Primer Blog"
+description: "Jekyll + Primer 테마로 만든 블로그입니다"
+url: "https://your-domain.com"   # 나중에 설정할 커스텀 도메인 넣기
